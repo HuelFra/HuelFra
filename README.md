@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuelFra
 - 👀 I’m interested in learn about new technologies
-- 🌱 I’m currently learning about JavaScript and Python
+- 🌱 I’m currently learning about Lógica de programação,JavaScript,Python and C#
 - 💞️ I’m looking to collaborate on projects involving these technologies
 - 📫 How to reach me through email: huelframil@yahoo.com.br
 
